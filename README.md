@@ -16,10 +16,10 @@ This project is a Node.js and Express application that includes a User module an
 
 ## Installation
 1. Clone the repository:
-   >> git clone "https://github.com/Homam-Bkera/simple_api_nodejs.git"
+   → git clone "https://github.com/Homam-Bkera/simple_api_nodejs.git"
    
 2. Install dependencies:
-  >> npm install
+   → npm install
 
 3. Start the server:
-  >> nodemon index.js
+   → nodemon index.js
